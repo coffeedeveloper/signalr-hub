@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/coffeedeveloper/signalr-hub/issues"
   },
-  "homepage": "https://github.com/coffeedeveloper/signalr-hub"
+  "homepage": "https://github.com/coffeedeveloper/signalr-hub",
+  "dependencies": {
+    "debug": "^2.2.0"
+  }
 }
