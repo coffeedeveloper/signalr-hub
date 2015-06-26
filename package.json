@@ -1,6 +1,6 @@
 {
   "name": "signalr-hub",
-  "version": "1.0.1",
+  "version": "1.1.0",
   "description": "SignalR Hub Helper",
   "main": "lib/hub.js",
   "scripts": {
@@ -22,5 +22,11 @@
   "homepage": "https://github.com/coffeedeveloper/signalr-hub",
   "dependencies": {
     "debug": "^2.2.0"
+  },
+  "devDependencies": {
+    "babel-core": "^5.6.11",
+    "babel-loader": "^5.2.2",
+    "node-libs-browser": "^0.5.2",
+    "webpack": "^1.9.12"
   }
 }
